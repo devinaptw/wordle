@@ -1,0 +1,12 @@
+D:\Project\jt\c_sharp\WORDLE\WORDLE\bin\Debug\WORDLE.exe.config
+D:\Project\jt\c_sharp\WORDLE\WORDLE\bin\Debug\WORDLE.exe
+D:\Project\jt\c_sharp\WORDLE\WORDLE\bin\Debug\WORDLE.pdb
+D:\Project\jt\c_sharp\WORDLE\WORDLE\obj\Debug\WORDLE.csproj.AssemblyReference.cache
+D:\Project\jt\c_sharp\WORDLE\WORDLE\obj\Debug\WORDLE.csproj.SuggestedBindingRedirects.cache
+D:\Project\jt\c_sharp\WORDLE\WORDLE\obj\Debug\WORDLE.Form1.resources
+D:\Project\jt\c_sharp\WORDLE\WORDLE\obj\Debug\WORDLE.Properties.Resources.resources
+D:\Project\jt\c_sharp\WORDLE\WORDLE\obj\Debug\WORDLE.csproj.GenerateResource.cache
+D:\Project\jt\c_sharp\WORDLE\WORDLE\obj\Debug\WORDLE.csproj.CoreCompileInputs.cache
+D:\Project\jt\c_sharp\WORDLE\WORDLE\obj\Debug\WORDLE.exe
+D:\Project\jt\c_sharp\WORDLE\WORDLE\obj\Debug\WORDLE.pdb
+D:\Project\jt\c_sharp\WORDLE\WORDLE\obj\Debug\WORDLE.Form2.resources
